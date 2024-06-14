@@ -27,7 +27,7 @@ def save_valid_proxy(proxy, file_path):
 def main():
     root = tk.Tk()
     root.title("Proxy Checker")
-    root.geometry("600x400")
+    root.geometry("600x600")
     root.configure(bg="#f0f0f0")
 
     title_label = tk.Label(root, text="Proxy Checker", font=("Helvetica", 16, "bold"), bg="#f0f0f0")
