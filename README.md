@@ -8,7 +8,7 @@ and Shows the Responses .
 
 1. Install Requirements:
         `pip3 install -r requirements.txt`
-2. Add your Proxies into File called" proxies.txt "" server:port".
+2. Add your Proxies into File called" proxies.txt "" ip:port".
 3. Type of proxies to check HTTP,SOCKS5 and SOCKS4.
 4. The Good Proxies shows in Green and automatically saved into File “Valid.txt”.
 
