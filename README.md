@@ -1,5 +1,5 @@
 ### Description : 
-This Simple Tool is Proxies checker made with Python Tkinter Lib To check if Proxies Works or Not 
+This Simple Tool is Proxies checker and scarper made with Python Tkinter Lib To check if Proxies Works or Not 
 and Shows the Responses .  
 
 ![](https://github.com/zinzied/Proxies-Checker/assets/10098794/d8019e06-9930-4f53-b301-9a67be231545)
